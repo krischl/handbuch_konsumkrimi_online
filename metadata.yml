@@ -1,18 +1,19 @@
 ---
-name: "Satz des Pythagoras"
+name: "OER Projekt"
 creator:
-  givenName: "Axel"
-  familyName: "Klinger"
+  givenName: "Christian "
+  familyName: "Pfliegel"
 publisher:
-  givenName: "Axel"
-  familyName: "Klinger"
+  givenName: "Christian "
+  familyName: "Pfliegel"
 keywords:
-  - "Geometrie"
-  - "Pythagoras"
-  - "Mathematik"
-description: "Der Satz des Pythagoras"
+  - "oer"
+  - "pfliegel.net"
+description: "Mein erstes OER Projekt"
 inLanguage: "DE"
+funder: "Wähle ..."
+subjectOf: "Wähle ..."
 version: 1.0
 license: "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
 thumbnailUrl: http://placehold.it/100x100
-learningResourceType: "Modul"
+learningResourceType: ""
