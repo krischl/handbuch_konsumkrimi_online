@@ -8,9 +8,9 @@ Prototyp für eine Kursvorlage mit Unterstützung bei Metadaten und Lizenzen. Di
 
 Mit CI werden die folgenden Dokumente generiert
 
-* [Kurs als Ebook](https://tibhannover.gitlab.io/oer/course-metadata-test/course.epub)
-* [Kurs als PDF](https://tibhannover.gitlab.io/oer/course-metadata-test/course.pdf)
-* [Kurs als HTML](https://tibhannover.gitlab.io/oer/course-metadata-test/index.html)
+* [Kurs als Ebook](https://krischl.gitlab.io/oer-kurse/course.epub)
+* [Kurs als PDF](https://krischl.gitlab.io/oer-kurse/course.pdf)
+* [Kurs als HTML](https://krischl.gitlab.io/oer-kurse/index.html)
 
 # Nachnutzung
 
