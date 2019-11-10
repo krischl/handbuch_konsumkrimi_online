@@ -64,8 +64,8 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 10. Intro-Film auf Beamer vorbereiten (befindet sich auf dem USB-Stick)
 
 ---
-'''diff
-- ## Wichtig:
+
+## <font color="red">Wichtig!</font>
 Die Technik des Konsumkrimis ist nicht kompliziert! Dennoch ist es wichtig, dass die einzelnen Schritte in der richten Reihenfolge eingehalten werden!
 ## Räumliche Voraussetzungen:
 * Beamer mit Lautsprechern
