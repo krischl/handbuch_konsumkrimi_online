@@ -135,7 +135,8 @@ Die beiden Plakate mit den QR-Codes werden gut zugänglich an einer Tafel oder W
 Der Intro-Film findet sich auf dem beigelegten USB-Stick und sollte über einen Beamer gezeigt werden.
 
 ---
-## Wichtig: Der Film ist vertont, weshalb Lautsprecher notwendig sind.
+## Wichtig: 
+Der Film ist vertont, weshalb Lautsprecher notwendig sind.
 ----
 
 ## Übersicht: Ablauf
