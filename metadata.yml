@@ -1,5 +1,5 @@
 ---
-name: "OER Projekt"
+name: "Handbuch Konsumkrimi"
 creator:
   givenName: "Christian "
   familyName: "Pfliegel"
@@ -9,7 +9,7 @@ publisher:
 keywords:
   - "oer"
   - "pfliegel.net"
-description: "Mein erstes OER Projekt"
+description: "Handbuch Konsumkrimi"
 inLanguage: "DE"
 funder: "Wähle ..."
 subjectOf: "Wähle ..."
