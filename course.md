@@ -137,6 +137,6 @@ Der Intro-Film findet sich auf dem beigelegten USB-Stick und sollte über einen 
 ---
 ## Wichtig: 
 Der Film ist vertont, weshalb Lautsprecher notwendig sind.
-----
+---
 
 ## Übersicht: Ablauf
