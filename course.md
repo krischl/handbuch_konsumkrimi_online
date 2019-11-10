@@ -72,6 +72,7 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 * Beamer mit Lautsprechern
 * großer Tisch
 * Bewegungsfreiheit im Raum
+
 ---
 
 ## Schritt 1: Raspberry Pi einstecken
