@@ -87,7 +87,9 @@ Der Raspberry Pi wird einfach in die Steckdose gesteckt
 
 ## Schritt 2: Kachi Yupi legen
 Die 49 bunten Holzplättchen folgendermaßen auf einen Tisch gelegt (dies ist das Logo der NGO Kachi Yupi):
-Bild einfügen
+![Kachi Yupi](images/Ekliptik4.png)
+
+*Abbildung 1: Deklination und Rektaszension*
 
 ---
 ## Wichtig:
