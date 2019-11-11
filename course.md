@@ -233,8 +233,9 @@ www.mission-einwelt.de
 * Einstieg: Handy mit Hinweis in Akkufach 
 * Code 13
 * Rebus. Lösung: Leewou Group
-* Aufgabe: Zeitung im Raum finden Zeitung
-* Code 83 => Lösung: Ausbeutung (= Code 131) 
+* Aufgabe: Zeitung im Raum finden Zeitung. 
+* Code 83 => Lösungen: 160 Euro, 6 Tage, Foxconn
+* Lösung: Ausbeutung (= Code 131) 
 * Code 131
 * interaktiver Film
 * Code 184
