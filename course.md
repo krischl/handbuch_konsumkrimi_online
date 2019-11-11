@@ -237,6 +237,6 @@ www.mission-einwelt.de
 * Code 83 => Lösungen: 160 Euro, 6 Tage, Foxconn
 * Lösung: Ausbeutung (= Code 131) 
 * Code 131
-* interaktiver Film
+* interaktiver Film. Lösungen: China, Siemens, Alles richtig außer Wenig Urlaub, falsch, 
 * Code 184
 * Labyrinth, Lösung: China Labour Watch
