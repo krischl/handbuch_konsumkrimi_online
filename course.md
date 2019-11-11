@@ -191,8 +191,9 @@ www.mission-einwelt.de
 * Aufgabe 1: Land gesucht! Lösung: Argentinien
 * ![Argentinien](images/argentinien.PNG)
 * Code 3 (klebt auf Argentinien)
-* Aufgabe 2: Kontoauszug! Lösung 1: Kachi Yupi, Lösung 2: 137 (Olivia Smith oder eine andere Spenderin, die 50.000 gegeben hat)
+* Aufgabe 2: Kontoauszug! Lösung: Kachi Yupi
 * ![Kachi Yupi](images/kachi.PNG)
+* Lösung: 137 (Olivia Smith oder eine andere Spenderin, die 50.000 gegeben hat)
 * ![Olivia Smith](images/137.PNG)
 * Code 137
 * Text: Synonyme von Olivia Smith
@@ -208,12 +209,18 @@ www.mission-einwelt.de
 
 ## Indonesien
 * Einstieg: Zettel mit Koordinaten. Lösung: Bangka und Belitung (indonesiche Inseln), mit 10 beschriftet
-* Code 10 (muss gescannt werden und dann in der 1. Aufgabe eingegeben werden).
-* 1. Aufgabe: Zu welchem Land gehören die Inseln? Lösung: Indonesien
-* 2. Aufgabe: Welche Stadt liegt nordwestlich? Lösung: Singapur (Süd-Nord sind auf der Karte vertauscht!)
-* 3. Aufgabe: Hauptstadt? Lösung: Jakarta
+* Code 10 (muss gescannt werden und dann in der Aufgabe eingegeben werden).
+* ![Indonesien](images/indo.PNG)
+* Aufgabe: Zu welchem Land gehören die Inseln? Lösung: Indonesien
+* ![Land_Indonsien](images/indonesien.PNG)
+* Aufgabe: Hauptstadt? Lösung: Jakarta
+* ![Hauptstadt](images/hauptstadt.PNG)
+* Aufgabe: Welche Stadt liegt nordwestlich? Lösung: Singapur (Süd-Nord sind auf der Karte vertauscht!)
+* ![Singapur](images/singapur.PNG)
 * Abschließende Aufgabe. Was ist gesucht? Lösung: Kassiterit
+* ![Kassiterit](images/kassi.PNG)
 * Code 17 (klebt auf Deutschland) Matheaufgabe zu Kassiterit. Lösung: 1
+* ![Zinn](images/zinn.PNG)
 * Code 1
 * Zahlenschloss knacken. Lösung: 101 
 * Domino, Lösung: 117 
@@ -222,9 +229,12 @@ www.mission-einwelt.de
 
 
 ## Ghana
-* Einstieg: Kinokarte mit Code 11: interaktiver Kinofilm (Welcome to Sodom) 
+* Einstieg: Kinokarte mit Code 11: interaktiver Kinofilm (Welcome to Sodom). Lösungen: Shakespeare, Agbogbloshie, vier-stellig, Mercedes Benz, Gomorra, Ghana, Accra
 * Code 167
-* Lebenslauf Handy. Lösung 1: Lösung 2: letzte Zeile anklicken
+* Lebenslauf Handy. Lösung: 
+* ![Lebenslauf](images/lebenslauf.PNG)
+* Lösung 2: letzte Zeile anklicken
+* ![Notiz](images/notiz.PNG)
 * Code 148
 * Text: Recherche
 * Brief unter der Sammelbox, 3D-Labyrinth 
