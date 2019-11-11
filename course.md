@@ -160,10 +160,10 @@ Weltverteilung (siehe Seite xxx)
 
 ### Arbeit in Gruppen
 6 Gruppen bearbeiten 6 Stationen (2 Stationen sind doppelt)
-* *Station 1*: Argentinien, Thema: Lithium
-* *Station 2*: Indonesien, Thema: Zinn
-* *Station 3*: Ghana, Thema: Elektroschrott
-* *Station 4*: China, Thema: Rechte von Arbeitnehmer*innen
+* **Station 1**: Argentinien, Thema: Lithium
+* **Station 2**: Indonesien, Thema: Zinn
+* **Station 3**: Ghana, Thema: Elektroschrott
+* **Station 4**: China, Thema: Rechte von Arbeitnehmer*innen
 
 ### Ergebnisse sammeln
 Jede Gruppe erzählt den anderen Gruppen im Plenum, was sie herausgefunden hat
@@ -177,6 +177,65 @@ www.mission-learning.org/formular_neu (siehe Seite xxx)
 ## Erste Hinführung zum Thema
 Für den Einstieg in die Einheit bietet es sich an, die Gruppe in das Thema einzuführen.
 Dabei hat sich folgendes Vorgehen bewährt:
-* *Einstiegsfrage: Wie viele Handys hattest du schon?*: 
+* **1. Einstiegsfrage: Wie viele Handys hattest du schon?**: 
 * Aufgabe: Gruppiert euch nach Anzahl der Handys, die ihr schon bessen habt (1 Gruppe mit TeilnehmerInnen, die bisher 1 Handy hatten, 1 Gruppe mit TeilnehmerInnen, die zwei Handys hatten usw.
+* **2. Einstiegsfrage: Welche Rohstoffe kennt ihr, die in Handys verbaut sind**
+* Aufgabe: Infos hierzu können den Hintergrundinfos in diesem Handbuch entnommen werden.
 
+## Einführungsspiel: Weltverteilung
+www.mission-einwelt.de
+
+# Beschreibung der Stationen
+
+## Argentinien
+* Einstieg: Akku mit Code 19
+* Aufgabe 1: Land gesucht! Lösung: Argentinien
+* Code 3 (klebt auf Argentinien)
+* Aufgabe 2: Kontoauszug! Lösung 1: Kachi Yupi, Lösung 2: 137 (Olivia Smith oder eine andere Spenderin, die 50.000 gegeben hat)
+* Code 137
+* Text: Synonyme von Olivia Smith
+* Code 22
+* Text: Infos zu Kachi Yupi
+* Legespiel mit Holzplättchen (unter der Weltkarte)
+* Code 20
+* Text: Brief
+* Code 29
+* Puzzle: Erpresserbrief
+
+
+## Indonesien
+* Einstieg: Zettel mit Koordinaten. Lösung: Bangka und Belitung (indonesiche Inseln), mit 10 beschriftet
+* Code 10 (muss gescannt werden und dann in der 1. Aufgabe eingegeben werden).
+* 1. Aufgabe: Zu welchem Land gehören die Inseln? Lösung: Indonesien
+* 2. Aufgabe: Welche Stadt liegt nordwestlich? Lösung: Singapur (Süd-Nord sind auf der Karte vertauscht!)
+* 3. Aufgabe: Hauptstadt? Lösung: Jakarta
+* Abschließende Aufgabe. Was ist gesucht? Lösung: Kassiterit
+* Code 17 (klebt auf Deutschland) Matheaufgabe zu Kassiterit. Lösung: 1
+* Code 1
+* Zahlenschloss knacken. Lösung: 101 
+* Domino, Lösung: 117 
+* Code 117
+* Pressemitteilung
+
+
+## Ghana
+* Einstieg: Kinokarte mit Code 11: interaktiver Kinofilm (Welcome to Sodom) 
+* Code 167
+* Lebenslauf Handy. Lösung 1: Lösung 2: letzte Zeile anklicken
+* Code 148
+* Text: Recherche
+* Brief unter der Sammelbox, 3D-Labyrinth 
+* Code 164
+* Brief von Don
+
+
+## China
+* Einstieg: Handy mit Hinweis in Akkufach 
+* Code 13
+* Rebus. Lösung: Leewou Group
+* Aufgabe: Zeitung im Raum finden Zeitung
+* Code 83 => Lösung: Ausbeutung (= Code 131) 
+* Code 131
+* interaktiver Film
+* Code 184
+* Labyrinth, Lösung: China Labour Watch
