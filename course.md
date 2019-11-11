@@ -192,6 +192,8 @@ www.mission-einwelt.de
 * ![Argentinien](images/argentinien.PNG)
 * Code 3 (klebt auf Argentinien)
 * Aufgabe 2: Kontoauszug! Lösung 1: Kachi Yupi, Lösung 2: 137 (Olivia Smith oder eine andere Spenderin, die 50.000 gegeben hat)
+* ![Kachi Yupi](images/kachi.PNG)
+* ![Olivia Smith](images/137.PNG)
 * Code 137
 * Text: Synonyme von Olivia Smith
 * Code 22
@@ -201,6 +203,7 @@ www.mission-einwelt.de
 * Text: Brief
 * Code 29
 * Puzzle: Erpresserbrief
+* ![Erpresserbrief](images/brief.PNG)
 
 
 ## Indonesien
