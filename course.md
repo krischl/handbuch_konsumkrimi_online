@@ -148,3 +148,35 @@ Der Intro-Film findet sich auf dem beigelegten USB-Stick und sollte über einen 
 ---
 
 ## Übersicht: Ablauf
+
+### Erste Hinführung zum Thema: Umfrage:
+Umfrage: Wie viele Handys hattest du schon?
+
+### Einführungsspiel: 
+Weltverteilung (siehe Seite xxx)
+
+### Video: Wo ist Nora Grün? 
+= Video auf USB-Stick
+
+### Arbeit in Gruppen
+6 Gruppen bearbeiten 6 Stationen (2 Stationen sind doppelt)
+* *Station 1*: Argentinien, Thema: Lithium
+* *Station 2*: Indonesien, Thema: Zinn
+* *Station 3*: Ghana, Thema: Elektroschrott
+* *Station 4*: China, Thema: Rechte von Arbeitnehmer*innen
+
+### Ergebnisse sammeln
+Jede Gruppe erzählt den anderen Gruppen im Plenum, was sie herausgefunden hat
+
+### Gemeinsame Abschluss-Aufgabe
+= Ordner auf USB-Stick
+
+### Abschluss: Wie beeinflusst dein Konsum die Welt
+www.mission-learning.org/formular_neu (siehe Seite xxx)
+
+## Erste Hinführung zum Thema
+Für den Einstieg in die Einheit bietet es sich an, die Gruppe in das Thema einzuführen.
+Dabei hat sich folgendes Vorgehen bewährt:
+* *Einstiegsfrage: Wie viele Handys hattest du schon?*: 
+* Aufgabe: Gruppiert euch nach Anzahl der Handys, die ihr schon bessen habt (1 Gruppe mit TeilnehmerInnen, die bisher 1 Handy hatten, 1 Gruppe mit TeilnehmerInnen, die zwei Handys hatten usw.
+
