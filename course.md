@@ -1,3 +1,5 @@
+# Handbuch Konsumkrimi -
+
 ### erstellt vom Referat Entwicklung & Politik und von Christian Pfliegel (E-Learning-Entwicklung bei Mission EineWelt).
 
 SchülerInnen ab der 7. Klasse und KonfirmandInnen suchen mit Hilfe von Tablets nach den Ursachen für das Verschwinden von Nora Grün,
@@ -16,6 +18,8 @@ in Sachen Arbeitsbedingungen, Bezahlung der Mitarbeitenden und Umweltschutz erf�
 Ihr Einsatz brachte ihr jedoch nicht nur viel Be- wunderung und eine wachsende Fangemeinde ein. Es gab auch viele, die ihr den
 Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Versuche, ihr Unternehmen kaputt zu machen.
 
+
+## Inhaltverzeichnis
 
 ## Inventarliste
 
