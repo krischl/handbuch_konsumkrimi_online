@@ -93,7 +93,6 @@ Die 49 bunten Holzplättchen folgendermaßen auf einen Tisch gelegt (dies ist da
 
 ![Kachi Yupi](images/kachi.jpg)
 
-*Abbildung 1: Kachi Yupi*
 
 ---
 ## Wichtig:
@@ -190,6 +189,7 @@ www.mission-einwelt.de
 ## Argentinien
 * Einstieg: Akku mit Code 19
 * Aufgabe 1: Land gesucht! Lösung: Argentinien
+* ![Argentinien](images/argentinien.PNG)
 * Code 3 (klebt auf Argentinien)
 * Aufgabe 2: Kontoauszug! Lösung 1: Kachi Yupi, Lösung 2: 137 (Olivia Smith oder eine andere Spenderin, die 50.000 gegeben hat)
 * Code 137
