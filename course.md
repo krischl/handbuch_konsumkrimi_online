@@ -10,6 +10,7 @@ Argentinien, DR Kongo, Indonesien, China, Peru. Aber auch auf Initiativen, Arbei
 die sich für faire und umweltschonende Bedingungen einsetzen.
 
 ## Die Geschichte
+<a id="Die Geschichte"></a>
 
 Sie war drauf und dran, der neue Star des Öko-Business zu werden. Doch jetzt ist Nora Grün, Geschäftsführerin des Start-ups Smart’n’Fair,
 wie es scheint, über Nacht verschwunden. Die 28-Jährige verfolgte seit Jahren zusammen mit ihrem Team und unzähligen UnterstützerInnen die
@@ -20,6 +21,8 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 
 
 ## Inhaltverzeichnis
+
+
 
 ## Inventarliste
 
