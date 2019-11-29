@@ -266,4 +266,4 @@ www.mission-einwelt.de
 * interaktiver Film. Lösungen: China oder Indien, Siemens, Alles richtig außer Wenig Urlaub, falsch, 
 * Code 184
 * Labyrinth, Lösung: China Labour Watch Undercover
-* ![Labyrinth](images/china_laby.png)
+* ![Labyrinth](images/laby.png)
