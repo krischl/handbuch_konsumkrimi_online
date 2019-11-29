@@ -254,11 +254,16 @@ www.mission-einwelt.de
 ## China
 * Einstieg: Handy mit Hinweis in Akkufach 
 * Code 13
-* Rebus. Lösung: Leewou Group
+* Rebus. Lösung: Leewou Group:
+* ![Rebus](images/rebus.png)
 * Aufgabe: Zeitung im Raum finden Zeitung. 
-* Code 83 => Lösungen: 160 Euro, 6 Tage, Foxconn
+* Code 83 => Lösungen: 160 Euro, 6 Tage, Foxconn:
+* ![Lohn](images/china_lohn.png)
+* ![Tage](images/china_tag.png)
+* ![Foxconn](images/china_foxconn.png)
 * Lösung: Ausbeutung (= Code 131) 
 * Code 131
 * interaktiver Film. Lösungen: China oder Indien, Siemens, Alles richtig außer Wenig Urlaub, falsch, 
 * Code 184
 * Labyrinth, Lösung: China Labour Watch Undercover
+* ![Labyrinth](images/china_laby.png)
