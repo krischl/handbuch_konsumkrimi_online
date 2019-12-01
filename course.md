@@ -9,11 +9,18 @@ meist menschenunwürdigen Abbau- und Produktionsbedingungen sowie umweltzerstör
 Argentinien, DR Kongo, Indonesien, China, Peru. Aber auch auf Initiativen, ArbeiterInnen, Genossenschaften u.a.,
 die sich für faire und umweltschonende Bedingungen einsetzen.
 
-## Lehrziele
-### Grobziele
-### Feinziele
+# Methode und Grundlagen
+* Die digitalen Aufgaben liegen auf dem Raspberry Pi, eine Internetverbindung ist nicht notwendig. Die Daten verlassen den Raum nicht (DSGVO!)
+* Die Schüler*innen bearbeiten in 6 Gruppen 4 verschiedene Länder, zwei Stationen sind doppelt. Jede Gruppe hat dabei die folgende Aufträge: Schreibt das Land auf, um das es geht. Welche Probleme gibt es in diesem Land wegen der Mobiltelefone? Wie könnte die Situation verbessert werden? 
+* Die nummerierten QR-Codes führen durch die Geschichte, Ziel ist es immer, den nächsten QR-Code zu erarbeiten
+* Die QR-Codes werden mit einem QR-Reader gelesen, die Aufgabe öffnet sich dann im Browser
 
-## Methode
+## Lehrziele
+* Die Teilnehmer*innen können Rohstoffe benennen, die in einem Smart- phone verbaut sind
+* Die Teilnehmer*innen können drei Ländern benennen, aus denen diese Rohstoffe stammen
+* Die Teilnehmer*innenkönnendreiproblematischeAspektederSmartphone- Nutzung benennen
+* Die Teilnehmer*innen können drei Möglichkeiten benennen, wie diese Probleme verbessert werden könnten.
+* Die Teilehmer*innen reflektieren ihr eigenes Konsumverhalten
 
 
 ## Die Geschichte
