@@ -47,22 +47,25 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 ### Allgemein
 - [ ] Weltkarte
 - [ ] Karten mit QR-Codes (2x)
-- [ ] Handysammelbox
+- [ ] Stoffbeutel - Handyaktion
+- [ ] Handbuch
+- [ ] USB-Stick
+- [ ] Rucksack
 
 ### Station Argentinien
 - [ ] Akku mit QR-Code 19
 - [ ] 49 bunte Holzplättechen "Kachi Yupi"
 
-### Station Indonesien
+### Station Indonesien (2x enthalten)
 - [ ] Zettel mit Koordinaten Indonesien
 - [ ] Holzbox mit Zahlenschloss
-- [ ] Legespiel + Anleitung
+- [ ] Legespiel + Anleitung (in der Holzbox)
 
 ### Station China
 - [ ] Handy mit Hinweisen im Akkufach
 - [ ] Zeitungsausschnitt
 
-### Station Ghana
+### Station Ghana(2x enthalten)
 - [ ] Kinokarte mit QR-Code 11
 - [ ] Beschreibung 3D-Labyrinth
 - [ ] Text in 3D-Labyrinth (1x Extra)
@@ -74,8 +77,8 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 2. "Kachi Yupi"-Spiel legen (49 Holzplättchen)
 3. Weltkarte darüber legen
 4. 6 Geräte per Wlan mit dem Raspberry verbinden
-5. Handy-Sammelbox beliebig im Raum aufstellen und 3-D-Labyrinth darunter legen
-6. Verschlossenes Kästchen unter den Tisch mit der Weltkarte stellen
+5. 3D-Labyrinthe in die Stoffbeutel packen und diese irgendwo im Raum aufhängen
+6. Verschlossene Kästchen irgendwo sichtbar im Raum aufstellen 
 7. Zeitungsartikel im Raum aufhängen
 8. Rucksack im Raum aufstellen
 9. Plakate mit QR-Codes aufhängen
@@ -86,10 +89,11 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 ## Wichtig:
 * Die Technik des Konsumkrimis ist nicht kompliziert! Dennoch ist es wichtig, dass die einzelnen Schritte in der richten Reihenfolge eingehalten werden!
 
-## Räumliche Voraussetzungen:
+## Voraussetzungen:
 * Beamer mit Lautsprechern
 * großer Tisch
 * Bewegungsfreiheit im Raum
+* 6 wlan-fähige Endgeräte (Tablet, Smartphone, Ipad)
 
 ---
 
@@ -137,11 +141,11 @@ Die Ipads (oder andere wlan-fähige Geräte) werden mit dem Raspberry Pi verbund
 * Fall die Teilnehmer*innen ihre eigenen Geräte verwenden sollen diese vorab informieren, dass ein QR-Code-Scanner auf den Geräten notwendig ist (ansonsten bedarf es keiner zustätzlichen Software/ Apps)
 ---
 
-## Schritt 5: Handysammelbox aufstellen
-Die Handysammelbox wird irgendwo im Raum aufgestellt, so dass sie auf den zweiten Blick sichtbar ist. Unter die Sammelbox werden die 3D-Labyrinthe sowie die Anleitung für diese gelegt. Eine Lösung der Labyrinthe liegt bei, falls TeilnehmerInnen es nicht schaffen, diese Aufgabe zu lö- sen. Auf der Unterseite der 3D-Labyrinthe ist der Bolzen mit einem schwarzen Punkt markiert, so dass die Lösung verwendet werden kann (siehe Foto unten)
+## Schritt 5: Stoffbeutel "Handyaktion" aufhängen
+Die Stoffbeutel werden irgendwo im Raum aufgehängt, so dass sie auf den zweiten Blick sichtbar ist. In die Sammelbox werden die 3D-Labyrinthe sowie die Anleitung für diese gelegt. Eine Lösung der Labyrinthe liegt bei, falls TeilnehmerInnen es nicht schaffen, diese Aufgabe zu lösen. Auf der Unterseite der 3D-Labyrinthe ist der Bolzen mit einem schwarzen Punkt markiert, so dass die Lösung verwendet werden kann (siehe Foto unten)
 
 ## Schritt 6: Holzkästchen aufstellen
-Das mit dem Schloss versperrte Kästchen wird unter den Tisch mit der Weltkarte gestellt.
+Das mit dem Schloss versperrte Kästchen wird im Raum aufgestellt
 **Der Code des Schlosses ist 101 (wird während des Krimis erspielt)**
 
 ## Schritt 7: Zeitungsartikel im Raum aufhängen
@@ -168,13 +172,13 @@ Der Intro-Film findet sich auf dem beigelegten USB-Stick und sollte über einen 
 Umfrage: Wie viele Handys hattest du schon?
 
 ### Einführungsspiel: 
-Weltverteilung (siehe Seite xxx)
+Weltverteilung (Anleitung siehe Beiblatt)
 
 ### Video: Wo ist Nora Grün? 
-= Video auf USB-Stick
+= Video auf USB-Stick, über Beamer zeigen!
 
 ### Arbeit in Gruppen
-6 Gruppen bearbeiten 6 Stationen (2 Stationen sind doppelt)
+6 Gruppen bearbeiten 6 Stationen (Ghana und Indonesien sind doppelt)
 * **Station 1**: Argentinien, Thema: Lithium
 * **Station 2**: Indonesien, Thema: Zinn
 * **Station 3**: Ghana, Thema: Elektroschrott
@@ -184,10 +188,11 @@ Weltverteilung (siehe Seite xxx)
 Jede Gruppe erzählt den anderen Gruppen im Plenum, was sie herausgefunden hat
 
 ### Gemeinsame Abschluss-Aufgabe
-= Ordner auf USB-Stick
+= Ordner "Schluss" auf USB-Stick öffnen und die Datei "hier_klicken.html" öffnen. Über Beamer zeigen!
 
 ### Abschluss: Wie beeinflusst dein Konsum die Welt
-www.mission-learning.org/formular_neu (siehe Seite xxx)
+www.mission-learning.org/formular_neu ... Webseite über Beamer öffnen. Mit dieser Seite kann der Konsum an Handys bis zum 80. Geburtstag hochgerechnet werden (mit dem Schieberegler muss das Alter, das Jahr des 1. Smartphones und die Anzahl der bisherigen Handys eingegebn werden). Mit dem unteren
+Schieberegler kann die Ersparnis bei einer längeren durchschnittlichen Nutzung kalkuliert werden. 
 
 ## Erste Hinführung zum Thema
 Für den Einstieg in die Einheit bietet es sich an, die Gruppe in das Thema einzuführen.
@@ -198,7 +203,7 @@ Dabei hat sich folgendes Vorgehen bewährt:
 * Aufgabe: Infos hierzu können den Hintergrundinfos in diesem Handbuch entnommen werden.
 
 ## Einführungsspiel: Weltverteilung
-www.mission-einwelt.de
+Anleitung ist dem Paket beigelegt
 
 # Beschreibung der Stationen
 
@@ -274,3 +279,9 @@ www.mission-einwelt.de
 * Code 184
 * Labyrinth, Lösung: China Labour Watch Undercover
 * ![Labyrinth](images/laby.png)
+
+## Schluss-Station
+
+
+## Abschluss
+Seite: www.mission-learning.org/formular_neu öffnen
