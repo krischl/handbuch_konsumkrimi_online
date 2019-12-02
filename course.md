@@ -281,6 +281,8 @@ Anleitung ist dem Paket beigelegt
 * ![Labyrinth](images/laby.png)
 
 ## Schluss-Station
+Lösung: 
+![Labyrinth](images/schluss.PNG)
 
 
 ## Abschluss
