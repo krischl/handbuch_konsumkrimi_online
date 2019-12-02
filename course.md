@@ -33,9 +33,6 @@ Ihr Einsatz brachte ihr jedoch nicht nur viel Bewunderung und eine wachsende Fan
 Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Versuche, ihr Unternehmen kaputt zu machen.
 
 
-## Inhaltverzeichnis
-
-
 
 ## Inventarliste
 
@@ -50,23 +47,23 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 - [ ] Stoffbeutel - Handyaktion
 - [ ] Handbuch
 - [ ] USB-Stick
-- [ ] Rucksack
+- [ ] Rucksack (enthält: Akku, Koordinaten-Zettel (2x), Handy, Kinokarte (2x), Stifte + Papier). 
 
 ### Station Argentinien
-- [ ] Akku mit QR-Code 19
+- [ ] Akku mit QR-Code 19 (im Rucksack)
 - [ ] 49 bunte Holzplättechen "Kachi Yupi"
 
 ### Station Indonesien (2x enthalten)
-- [ ] Zettel mit Koordinaten Indonesien
+- [ ] Zettel mit Koordinaten Indonesien (im Rucksack)
 - [ ] Holzbox mit Zahlenschloss
 - [ ] Legespiel + Anleitung (in der Holzbox)
 
 ### Station China
-- [ ] Handy mit Hinweisen im Akkufach
+- [ ] Handy mit Hinweisen im Akkufach (im Rucksack)
 - [ ] Zeitungsausschnitt
 
 ### Station Ghana(2x enthalten)
-- [ ] Kinokarte mit QR-Code 11
+- [ ] Kinokarte mit QR-Code 11 (im Rucksack)
 - [ ] Beschreibung 3D-Labyrinth
 - [ ] Text in 3D-Labyrinth (1x Extra)
 - [ ] 3D-Labyrinth (2x)
