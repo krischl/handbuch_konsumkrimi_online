@@ -45,7 +45,9 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 - [ ] Weltkarte
 - [ ] Karten mit QR-Codes (2x)
 - [ ] Stoffbeutel - Handyaktion
-- [ ] Handbuch
+- [ ] Handbuch Konsumkrimi
+- [ ] Anleitung Weltverteilungsspiel (= optionaler Einstieg)
+- [ ] Anleitung: Privilegiencheck (= optionaler Einstieg)
 - [ ] USB-Stick
 - [ ] Rucksack (enthält: Akku, Koordinaten-Zettel (2x), Handy, Kinokarte (2x), Stifte + Papier). 
 
@@ -169,13 +171,13 @@ Der Intro-Film findet sich auf dem beigelegten USB-Stick und sollte über einen 
 Umfrage: Wie viele Handys hattest du schon?
 
 ### Einführungsspiel: 
-Weltverteilung (Anleitung siehe Beiblatt)
+Weltverteilung (Anleitung siehe Beiblatt) ODER Privilegien-Check (Anleitung siehe Beiblatt)
 
 ### Video: Wo ist Nora Grün? 
 = Video auf USB-Stick, über Beamer zeigen!
 
 ### Arbeit in Gruppen
-6 Gruppen bearbeiten 6 Stationen (Ghana und Indonesien sind doppelt)
+6 Gruppen bearbeiten 6 Stationen (Ghana und Indonesien sind doppelt), die Start-QR-Codes finden sie auf den Gegenständen im Rucksack
 * **Station 1**: Argentinien, Thema: Lithium
 * **Station 2**: Indonesien, Thema: Zinn
 * **Station 3**: Ghana, Thema: Elektroschrott
