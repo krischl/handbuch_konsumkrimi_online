@@ -66,9 +66,9 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 
 ### Station Ghana(2x enthalten)
 - [ ] Kinokarte mit QR-Code 11 (im Rucksack)
-- [ ] Text in 3D-Labyrinth (1x Extra)
+- [ ] Text in 3D-Labyrinth (steck 1x in der Lösung)
 - [ ] 3D-Labyrinth (2x)
-- [ ] Lösung 3D-Labyrinth 
+- [ ] Lösungsweg 3D-Labyrinth 
 
 ## Aufbau: Übersicht
 1. Raspberry Pi in die Steckdose stecken (muss im gleichen Raum sein)
