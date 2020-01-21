@@ -16,7 +16,7 @@ die sich für faire und umweltschonende Bedingungen einsetzen.
 * Die QR-Codes werden mit einem QR-Reader gelesen, die Aufgabe öffnet sich dann im Browser
 
 ## Lehrziele
-* Die Teilnehmer*innen können Rohstoffe benennen, die in einem Smart- phone verbaut sind
+* Die Teilnehmer*innen können Rohstoffe benennen, die in einem Smartphone verbaut sind
 * Die Teilnehmer*innen können drei Ländern benennen, aus denen diese Rohstoffe stammen
 * Die Teilnehmer*innenkönnendreiproblematischeAspektederSmartphone- Nutzung benennen
 * Die Teilnehmer*innen können drei Möglichkeiten benennen, wie diese Probleme verbessert werden könnten.
@@ -66,10 +66,9 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 
 ### Station Ghana(2x enthalten)
 - [ ] Kinokarte mit QR-Code 11 (im Rucksack)
-- [ ] Beschreibung 3D-Labyrinth
 - [ ] Text in 3D-Labyrinth (1x Extra)
 - [ ] 3D-Labyrinth (2x)
-- [ ] Lösung 3D-Labyrinth
+- [ ] Lösung 3D-Labyrinth 
 
 ## Aufbau: Übersicht
 1. Raspberry Pi in die Steckdose stecken (muss im gleichen Raum sein)
@@ -260,7 +259,7 @@ Anleitung ist dem Paket beigelegt
 * ![Notiz](images/notiz.PNG)
 * Code 148
 * Text: Recherche
-* Brief unter der Sammelbox, 3D-Labyrinth 
+* 3D-Labyrinth im Stoffbeutel Handyaktion 
 * Code 164
 * Brief von Don
 
