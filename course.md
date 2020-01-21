@@ -241,7 +241,7 @@ Anleitungen und Beschreibungen sind dem Paket beigelegt
 * ![Singapur](images/indonesien_5.png)
 * Abschließende Aufgabe. Was ist gesucht? Lösung: Kassiterit
 * ![Kassiterit](images/kassi.PNG)
-* Code 17 (klebt auf Deutschland) Matheaufgabe zu Kassiterit. Lösung: 1
+* Code 17 (Nummer befindet sich auf Deutschland) Matheaufgabe zu Kassiterit. Lösung: 1
 * ![Zinn](images/zinn.PNG)
 * Code 1
 * Zahlenschloss knacken. Lösung: 101 
@@ -266,7 +266,7 @@ Anleitungen und Beschreibungen sind dem Paket beigelegt
 
 ## China
 * Einstieg: Handy mit Hinweis in Akkufach 
-* Code 13
+* Code 13 (befindet sich auf China)
 * Rebus. Lösung: Leewou Group:
 * ![Rebus](images/rebus.png)
 * Aufgabe: Zeitung im Raum finden Zeitung. 
