@@ -228,8 +228,8 @@ Anleitung ist dem Paket beigelegt
 
 
 ## Indonesien
-* Einstieg: Zettel mit Koordinaten. Lösung: Bangka und Belitung (indonesiche Inseln), mit 10 beschriftet
-* Code 10 (muss gescannt werden und dann in der Aufgabe eingegeben werden).
+* Einstieg: Postkarte mit der Anweisung, Code 10 zu scannen
+* Code 10
 * ![Indonesien](images/indo.PNG)
 * Aufgabe: Zu welchem Land gehören die Inseln? Lösung: Indonesien
 * ![Land_Indonsien](images/indonesien.PNG)
@@ -243,7 +243,7 @@ Anleitung ist dem Paket beigelegt
 * ![Zinn](images/zinn.PNG)
 * Code 1
 * Zahlenschloss knacken. Lösung: 101 
-* Domino, Lösung: 117 
+* Domino, Lösung: 117 (Auf der Rückseite der Karte mit dem Text "Regenwaldabholzung")
 * Code 117
 * Pressemitteilung
 
