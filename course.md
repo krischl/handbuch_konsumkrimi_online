@@ -49,7 +49,7 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 - [ ] Anleitung Weltverteilungsspiel (= optionaler Einstieg)
 - [ ] Anleitung: Privilegiencheck (= optionaler Einstieg)
 - [ ] USB-Stick
-- [ ] Rucksack (enthält: Akku, Koordinaten-Zettel (2x), Handy, Kinokarte (2x), Stifte + Papier). 
+- [ ] Rucksack (enthält: Akku, Postkarte (2x), Handy, Kinokarte (2x), Stifte + Papier). 
 
 ### Station Argentinien
 - [ ] Akku mit QR-Code 19 (im Rucksack)
