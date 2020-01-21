@@ -200,8 +200,8 @@ Dabei hat sich folgendes Vorgehen bewährt:
 * **2. Einstiegsfrage: Welche Rohstoffe kennt ihr, die in Handys verbaut sind**
 * Aufgabe: Infos hierzu können den Hintergrundinfos in diesem Handbuch entnommen werden.
 
-## Einführungsspiel: Weltverteilung
-Anleitung ist dem Paket beigelegt
+## Einführungsspiel: Weltverteilung oder Privilegien-Check (beides optional und nicht Teil des Konsumkrimis)
+Anleitungen und Beschreibungen sind dem Paket beigelegt
 
 # Beschreibung der Stationen
 
