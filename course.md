@@ -209,7 +209,7 @@ Anleitungen und Beschreibungen sind dem Paket beigelegt
 * Einstieg: Akku mit Code 19
 * Aufgabe 1: Land gesucht! Lösung: Argentinien
 * ![Argentinien](images/argentinien.PNG)
-* Code 3 (klebt auf Argentinien)
+* Code 3 (Nummer befindet sich auf Argentinien)
 * Aufgabe 2: Kontoauszug! Lösung: Kachi Yupi
 * ![Kachi Yupi](images/kachi.PNG)
 * Lösung: 137 (Olivia Smith oder eine andere Spenderin, die 50.000 gegeben hat)
