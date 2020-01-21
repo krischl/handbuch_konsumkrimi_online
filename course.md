@@ -141,7 +141,7 @@ Die Ipads (oder andere wlan-fähige Geräte) werden mit dem Raspberry Pi verbund
 ---
 
 ## Schritt 5: Stoffbeutel "Handyaktion" aufhängen
-Die Stoffbeutel werden irgendwo im Raum aufgehängt, so dass sie auf den zweiten Blick sichtbar ist. In die Sammelbox werden die 3D-Labyrinthe sowie die Anleitung für diese gelegt. Eine Lösung der Labyrinthe liegt bei, falls TeilnehmerInnen es nicht schaffen, diese Aufgabe zu lösen. Auf der Unterseite der 3D-Labyrinthe ist der Bolzen mit einem schwarzen Punkt markiert, so dass die Lösung verwendet werden kann (siehe Foto unten)
+Die Stoffbeutel werden irgendwo im Raum aufgehängt, so dass sie auf den zweiten Blick sichtbar ist.  Bei den 3D-Labyrinthen ist der Bolzen mit einem schwarzen Punkt markiert, so dass die beigelegte Lösung verwendet werden kann. Der Punkt ist sichtbar, wenn das Labyrinth von unten angeschaut wird. 
 
 ## Schritt 6: Holzkästchen aufstellen
 Das mit dem Schloss versperrte Kästchen wird im Raum aufgestellt
@@ -230,13 +230,16 @@ Anleitung ist dem Paket beigelegt
 ## Indonesien
 * Einstieg: Postkarte mit der Anweisung, Code 10 zu scannen
 * Code 10
-* ![Indonesien](images/indo.PNG)
+* Aufgabe: Wo steht die 10 ... Lösung: Das linke Bild
+* ![Indonesien](images/indonesien_1.png)
+* Aufgabe: Wo sind die Inseln zu finden? Lösung: im rechten Drittel in der Mitte
+* ![Land_Indonsien](images/indonesien_2.jpg)
 * Aufgabe: Zu welchem Land gehören die Inseln? Lösung: Indonesien
-* ![Land_Indonsien](images/indonesien.PNG)
+* ![Land_Indonsien](images/indonesien_3.png)
 * Aufgabe: Hauptstadt? Lösung: Jakarta
-* ![Hauptstadt](images/hauptstadt.PNG)
+* ![Hauptstadt](images/indonesien_4.png)
 * Aufgabe: Welche Stadt liegt nordwestlich? Lösung: Singapur (Süd-Nord sind auf der Karte vertauscht!)
-* ![Singapur](images/singapur.PNG)
+* ![Singapur](images/indonesien_5.png)
 * Abschließende Aufgabe. Was ist gesucht? Lösung: Kassiterit
 * ![Kassiterit](images/kassi.PNG)
 * Code 17 (klebt auf Deutschland) Matheaufgabe zu Kassiterit. Lösung: 1
