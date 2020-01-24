@@ -56,7 +56,7 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 - [ ] 49 bunte Holzplättechen "Kachi Yupi"
 
 ### Station Indonesien (2x enthalten)
-- [ ] Zettel mit Koordinaten Indonesien (im Rucksack)
+- [ ] Postkarte mit Arbeitsauftrag (im Rucksack)
 - [ ] Holzbox mit Zahlenschloss
 - [ ] Legespiel + Anleitung (in der Holzbox)
 
