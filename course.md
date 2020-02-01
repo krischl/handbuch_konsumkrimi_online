@@ -288,3 +288,5 @@ Lösung:
 
 ## Abschluss
 Seite: www.mission-learning.org/formular_neu öffnen
+
+Vielen Dank und viel Spaß beim Spielen!
