@@ -2,6 +2,8 @@
 
 ### erstellt vom Referat Entwicklung & Politik und von Christian Pfliegel (E-Learning-Entwicklung bei Mission EineWelt).
 
+Ob das klappt?
+
 SchülerInnen ab der 7. Klasse und KonfirmandInnen suchen mit Hilfe von Tablets nach den Ursachen für das Verschwinden von Nora Grün,
 einer Unternehmerin, die ein faires und nachhaltiges Smartphone auf den Markt bringen will.
 Beim Lösen verschiedener Aufgaben, beim Knacken von Rätseln und Codes stoßen die SchülerInnen auf die
@@ -11,7 +13,7 @@ die sich für faire und umweltschonende Bedingungen einsetzen.
 
 # Methode und Grundlagen
 * Die digitalen Aufgaben liegen auf dem Raspberry Pi, eine Internetverbindung ist nicht notwendig. Die Daten verlassen den Raum nicht (DSGVO!)
-* Die Schüler*innen bearbeiten in 6 Gruppen 4 verschiedene Länder, zwei Stationen sind doppelt. Jede Gruppe hat dabei die folgende Aufträge: Schreibt das Land auf, um das es geht. Welche Probleme gibt es in diesem Land wegen der Mobiltelefone? Wie könnte die Situation verbessert werden? 
+* Die Schüler*innen bearbeiten in 6 Gruppen 4 verschiedene Länder, zwei Stationen sind doppelt. Jede Gruppe hat dabei die folgende Aufträge: Schreibt das Land auf, um das es geht. Welche Probleme gibt es in diesem Land wegen der Mobiltelefone? Wie könnte die Situation verbessert werden?
 * Die nummerierten QR-Codes führen durch die Geschichte, Ziel ist es immer, den nächsten QR-Code zu erarbeiten
 * Die QR-Codes werden mit einem QR-Reader gelesen, die Aufgabe öffnet sich dann im Browser
 
@@ -49,7 +51,7 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 - [ ] Anleitung Weltverteilungsspiel (= optionaler Einstieg)
 - [ ] Anleitung: Privilegiencheck (= optionaler Einstieg)
 - [ ] USB-Stick
-- [ ] Rucksack (enthält: Akku, Postkarte (2x), Handy, Kinokarte (2x), Stifte + Papier). 
+- [ ] Rucksack (enthält: Akku, Postkarte (2x), Handy, Kinokarte (2x), Stifte + Papier).
 
 ### Station Argentinien
 - [ ] Akku mit QR-Code 19 (im Rucksack)
@@ -68,7 +70,7 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 - [ ] Kinokarte mit QR-Code 11 (im Rucksack)
 - [ ] Text in 3D-Labyrinth (steck 1x in der Lösung)
 - [ ] 3D-Labyrinth (2x)
-- [ ] Lösungsweg 3D-Labyrinth 
+- [ ] Lösungsweg 3D-Labyrinth
 
 ## Aufbau: Übersicht
 1. Raspberry Pi in die Steckdose stecken (muss im gleichen Raum sein)
@@ -76,7 +78,7 @@ Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Ve
 3. Weltkarte darüber legen
 4. 6 Geräte per Wlan mit dem Raspberry verbinden
 5. 3D-Labyrinthe in die Stoffbeutel packen und diese irgendwo im Raum aufhängen
-6. Verschlossene Kästchen irgendwo sichtbar im Raum aufstellen 
+6. Verschlossene Kästchen irgendwo sichtbar im Raum aufstellen
 7. Zeitungsartikel im Raum aufhängen
 8. Rucksack im Raum aufstellen
 9. Plakate mit QR-Codes aufhängen
@@ -140,7 +142,7 @@ Die Ipads (oder andere wlan-fähige Geräte) werden mit dem Raspberry Pi verbund
 ---
 
 ## Schritt 5: Stoffbeutel "Handyaktion" aufhängen
-Die Stoffbeutel werden irgendwo im Raum aufgehängt, so dass sie auf den zweiten Blick sichtbar ist.  Bei den 3D-Labyrinthen ist der Bolzen mit einem schwarzen Punkt markiert, so dass die beigelegte Lösung verwendet werden kann. Der Punkt ist sichtbar, wenn das Labyrinth von unten angeschaut wird. 
+Die Stoffbeutel werden irgendwo im Raum aufgehängt, so dass sie auf den zweiten Blick sichtbar ist.  Bei den 3D-Labyrinthen ist der Bolzen mit einem schwarzen Punkt markiert, so dass die beigelegte Lösung verwendet werden kann. Der Punkt ist sichtbar, wenn das Labyrinth von unten angeschaut wird.
 
 ## Schritt 6: Holzkästchen aufstellen
 Das mit dem Schloss versperrte Kästchen wird im Raum aufgestellt
@@ -169,10 +171,10 @@ Der Intro-Film findet sich auf dem beigelegten USB-Stick und sollte über einen 
 ### Erste Hinführung zum Thema: Umfrage:
 Umfrage: Wie viele Handys hattest du schon?
 
-### Einführungsspiel: 
+### Einführungsspiel:
 Weltverteilung (Anleitung siehe Beiblatt) ODER Privilegien-Check (Anleitung siehe Beiblatt)
 
-### Video: Wo ist Nora Grün? 
+### Video: Wo ist Nora Grün?
 = Video auf USB-Stick, über Beamer zeigen!
 
 ### Arbeit in Gruppen
@@ -190,12 +192,12 @@ Jede Gruppe erzählt den anderen Gruppen im Plenum, was sie herausgefunden hat
 
 ### Abschluss: Wie beeinflusst dein Konsum die Welt
 www.mission-learning.org/formular_neu ... Webseite über Beamer öffnen. Mit dieser Seite kann der Konsum an Handys bis zum 80. Geburtstag hochgerechnet werden (mit dem Schieberegler muss das Alter, das Jahr des 1. Smartphones und die Anzahl der bisherigen Handys eingegebn werden). Mit dem unteren
-Schieberegler kann die Ersparnis bei einer längeren durchschnittlichen Nutzung kalkuliert werden. 
+Schieberegler kann die Ersparnis bei einer längeren durchschnittlichen Nutzung kalkuliert werden.
 
 ## Erste Hinführung zum Thema
 Für den Einstieg in die Einheit bietet es sich an, die Gruppe in das Thema einzuführen.
 Dabei hat sich folgendes Vorgehen bewährt:
-* **1. Einstiegsfrage: Wie viele Handys hattest du schon?**: 
+* **1. Einstiegsfrage: Wie viele Handys hattest du schon?**:
 * Aufgabe: Gruppiert euch nach Anzahl der Handys, die ihr schon bessen habt (1 Gruppe mit TeilnehmerInnen, die bisher 1 Handy hatten, 1 Gruppe mit TeilnehmerInnen, die zwei Handys hatten usw.
 * **2. Einstiegsfrage: Welche Rohstoffe kennt ihr, die in Handys verbaut sind**
 * Aufgabe: Infos hierzu können den Hintergrundinfos in diesem Handbuch entnommen werden.
@@ -244,7 +246,7 @@ Anleitungen und Beschreibungen sind dem Paket beigelegt
 * Code 17 (Nummer befindet sich auf Deutschland) Matheaufgabe zu Kassiterit. Lösung: 1
 * ![Zinn](images/zinn.PNG)
 * Code 1
-* Zahlenschloss knacken. Lösung: 101 
+* Zahlenschloss knacken. Lösung: 101
 * Domino, Lösung: 117 (Auf der Rückseite der Karte mit dem Text "Regenwaldabholzung")
 * Code 117
 * Pressemitteilung
@@ -253,36 +255,36 @@ Anleitungen und Beschreibungen sind dem Paket beigelegt
 ## Ghana
 * Einstieg: Kinokarte mit Code 11: interaktiver Kinofilm (Welcome to Sodom). Lösungen: Shakespeare, Agbogbloshie, vier-stellig, Mercedes Benz, Gomorra, Ghana, Accra
 * Code 167
-* Lebenslauf Handy. Lösung: 
+* Lebenslauf Handy. Lösung:
 * ![Lebenslauf](images/lebenslauf.PNG)
 * Lösung 2: letzte Zeile anklicken
 * ![Notiz](images/notiz.PNG)
 * Code 148
 * Text: Recherche
-* 3D-Labyrinth im Stoffbeutel Handyaktion 
+* 3D-Labyrinth im Stoffbeutel Handyaktion
 * Code 164
 * Brief von Don
 
 
 ## China
-* Einstieg: Handy mit Hinweis in Akkufach 
+* Einstieg: Handy mit Hinweis in Akkufach
 * Code 13 (befindet sich auf China)
 * Rebus. Lösung: Leewou Group:
 * ![Rebus](images/rebus.png)
-* Aufgabe: Zeitung im Raum finden Zeitung. 
+* Aufgabe: Zeitung im Raum finden Zeitung.
 * Code 83 => Lösungen: 160 Euro, 6 Tage, Foxconn:
 * ![Lohn](images/china_lohn.png)
 * ![Tage](images/china_tag.png)
 * ![Foxconn](images/china_foxconn.png)
-* Lösung: Ausbeutung (= Code 131) 
+* Lösung: Ausbeutung (= Code 131)
 * Code 131
-* interaktiver Film. Lösungen: China oder Indien, Siemens, Alles richtig außer Wenig Urlaub, falsch, 
+* interaktiver Film. Lösungen: China oder Indien, Siemens, Alles richtig außer Wenig Urlaub, falsch,
 * Code 184
 * Labyrinth, Lösung: China Labour Watch Undercover
 * ![Labyrinth](images/laby.png)
 
 ## Schluss-Station
-Lösung: 
+Lösung:
 ![Labyrinth](images/schluss.PNG)
 
 
