@@ -227,7 +227,7 @@ Die QR-Codes sollen in der folgenden Reihenfolge gescannt werden (die ausführli
 * ![Argentinien](images/argentinien.jpeg)
 * Code 3 (Nummer befindet sich auf Argentinien)
 * Aufgabe 2: Kontoauszug! Lösung: Kachi Yupi
-* ![Kachi Yupi](images/kachi.PNG)
+* ![Kachi Yupi](images/kachi.jpeg)
 * Lösung: 137 (Olivia Smith oder eine andere Spenderin, die 50.000 gegeben hat)
 * ![Olivia Smith](images/137.PNG)
 * Code 137
