@@ -208,7 +208,7 @@ Anleitungen und Beschreibungen sind dem Paket beigelegt
 ## Argentinien
 * Einstieg: Akku mit Code 19
 * Aufgabe 1: Land gesucht! Lösung: Argentinien
-* ![Argentinien](images/argentinien.PNG)
+* ![Argentinien](images/argentinien.jpeg)
 * Code 3 (Nummer befindet sich auf Argentinien)
 * Aufgabe 2: Kontoauszug! Lösung: Kachi Yupi
 * ![Kachi Yupi](images/kachi.PNG)
