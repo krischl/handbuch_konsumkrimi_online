@@ -208,10 +208,13 @@ Die QR-Codes sollen in der folgenden Reihenfolge gescannt werden (die ausführli
 
 ## Argentinien
 19 => 3 => 137 => 22 => 20 => 29
+
 ## Indonesien
 10 => 17 => 1 => 117
+
 ## Ghana
 11 => 167 => 148 => 164
+
 ## China
 13 => 83 => 131 => 184
 
