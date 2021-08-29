@@ -203,6 +203,19 @@ Dabei hat sich folgendes Vorgehen bewährt:
 ## Einführungsspiel: Weltverteilung oder Privilegien-Check (beides optional und nicht Teil des Konsumkrimis)
 Anleitungen und Beschreibungen sind dem Paket beigelegt
 
+# Übersicht: Reihenfolge QR-Codes
+Die QR-Codes sollen in der folgenden Reihenfolge gescannt werden (die ausführlichere Lösung findet sich weiter unten):
+
+## Argentinien
+19 => 3 => 137 => 22 => 20 => 29
+## Indonesien
+10 => 17 => 1 => 117
+## Ghana
+11 => 167 => 148 => 164
+## China
+13 => 83 => 131 => 184
+
+
 # Beschreibung der Stationen
 
 ## Argentinien
