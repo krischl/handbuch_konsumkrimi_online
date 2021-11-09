@@ -126,12 +126,12 @@ Die Ipads (oder andere wlan-fähige Geräte) werden mit dem Raspberry Pi verbund
 
 ---
 ## Wichtig:
-* Für die Nutzung des Konsumkrimis ist für die TeilnehmerInnen keinen Internetverbindung notwendig. Alle Inhalte liegen auf dem Raspberry Pi.
+* Für die Nutzung des Konsumkrimis ist für die Teilnehmer:innen keinen Internetverbindung notwendig. Alle Inhalte liegen auf dem Raspberry Pi.
 * Jedes Gerät, das über Wlan verfügt, kann mit dem Raspberry Pi verbunden werden (Tablet, Smartphone). Eine Installation einer App ist nicht notwendig, die Inhalte werden über den Browser angezeigt.
 * Um die Inhalte abrufen zu können ist ein QR-Code-Scanner auf dem Gerät notwendig. Bitte informieren sie sich, wie ein solcher auf Ihre Geräte kommt. Bei neueren iOS-Geräten (Apple) und auch bei neueren Android-Geräten (Google) kann häufig die Kamera-App QR-Codes lesen. Ansonsten ist die Installation über die Appstores notwendig (QR-Code-Scanner können dort kostenlos geladen werden).
 * Insgesamt sind für die Durchführung sechs Geräte notwendig, die mit dem Raspberry Pi verbunden werden.
 * Auf Grund des größeren Bildschirms werden Tablets empfohlen, aber auch die Nutzung von Handys ist möglich.
-* Fall die Teilnehmer*innen ihre eigenen Geräte verwenden sollen diese vorab informieren, dass ein QR-Code-Scanner auf den Geräten notwendig ist (ansonsten bedarf es keiner zustätzlichen Software/ Apps)
+* Fall die Teilnehmer:innen ihre eigenen Geräte verwenden sollen diese vorab informieren, dass ein QR-Code-Scanner auf den Geräten notwendig ist (ansonsten bedarf es keiner zustätzlichen Software/ Apps)
 ---
 
 ## Schritt 5: Stoffbeutel "Handyaktion" aufhängen
@@ -145,7 +145,7 @@ Das mit dem Schloss versperrte Kästchen wird im Raum aufgestellt
 Der Zeitungsartikel wird so im Raum aufgehängt, dass er nach kurzen Umsehen leicht gefunden werden kann.
 
 ## Schritt 8: Rucksack im Raum aufstellen
-Der Rucksack wird in der Nähe der Weltkarte aufgestellt, so dass er leicht gesehen werden kann. Im Rucksack finden sich 6 Gegenstände (für jeden Gruppe einer). Auf jedem Gegenstand findet sich die Nummer des Start-QR- Codes (teilweise versteckt, als Aufgabe verpackt). Zudem finden sich im Rucksack Stifte + Notizblöcke, die bei Bedarf von den TeilnehmerInnen verwendet werden können.
+Der Rucksack wird in der Nähe der Weltkarte aufgestellt, so dass er leicht gesehen werden kann. Im Rucksack finden sich 6 Gegenstände (für jeden Gruppe einer). Auf jedem Gegenstand findet sich die Nummer des Start-QR- Codes (teilweise versteckt, als Aufgabe verpackt). Zudem finden sich im Rucksack Stifte + Notizblöcke, die bei Bedarf von den Teilnehmer:innen verwendet werden können.
 
 ## Schritt 9: QR-Codes aufhängen
 
@@ -191,7 +191,7 @@ Schieberegler kann die Ersparnis bei einer längeren durchschnittlichen Nutzung 
 Für den Einstieg in die Einheit bietet es sich an, die Gruppe in das Thema einzuführen.
 Dabei hat sich folgendes Vorgehen bewährt:
 * **1. Einstiegsfrage: Wie viele Handys hattest du schon?**:
-* Aufgabe: Gruppiert euch nach Anzahl der Handys, die ihr schon bessen habt (1 Gruppe mit TeilnehmerInnen, die bisher 1 Handy hatten, 1 Gruppe mit TeilnehmerInnen, die zwei Handys hatten usw.
+* Aufgabe: Gruppiert euch nach Anzahl der Handys, die ihr schon bessen habt (1 Gruppe mit Teilnehmer:innen, die bisher 1 Handy hatten, 1 Gruppe mit Teilnehmer:innen, die zwei Handys hatten usw.
 * **2. Einstiegsfrage: Welche Rohstoffe kennt ihr, die in Handys verbaut sind**
 * Aufgabe: Infos hierzu können den Hintergrundinfos in diesem Handbuch entnommen werden.
 
