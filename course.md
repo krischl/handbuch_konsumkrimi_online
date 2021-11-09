@@ -38,7 +38,7 @@ Folgende Teile sind enthalten:
 
 ### Allgemein
 - [ ] Weltkarte
-- [ ] Karten mit QR-Codes (2x)
+- [ ] Karten mit QR-Codes (3x)
 - [ ] Stoffbeutel - Handyaktion
 - [ ] Handbuch Konsumkrimi
 - [ ] Anleitung Weltverteilungsspiel (= optionaler Einstieg)
