@@ -2,35 +2,30 @@
 
 ### erstellt vom Referat Entwicklung & Politik und von Christian Pfliegel (E-Learning-Entwicklung bei Mission EineWelt).
 
-SchülerInnen ab der 7. Klasse und KonfirmandInnen suchen mit Hilfe von Tablets nach den Ursachen für das Verschwinden von Nora Grün,
+Schüler:innen ab der 7. Klasse und Konfirmand:innen suchen mit Hilfe von Tablets nach den Ursachen für das Verschwinden von Nora Grün,
 einer Unternehmerin, die ein faires und nachhaltiges Smartphone auf den Markt bringen will.
-Beim Lösen verschiedener Aufgaben, beim Knacken von Rätseln und Codes stoßen die SchülerInnen auf die
-meist menschenunwürdigen Abbau- und Produktionsbedingungen sowie umweltzerstörende Praktiken in der Handy-Produktion in Ländern wie
-Argentinien, DR Kongo, Indonesien, China, Peru. Aber auch auf Initiativen, ArbeiterInnen, Genossenschaften u.a.,
-die sich für faire und umweltschonende Bedingungen einsetzen.
+Beim Lösen verschiedener Aufgaben, beim Knacken von Rätseln und Codes stoßen die Schüler:innen auf die
+meist menschenunwürdigen Abbau- und Produktionsbedingungen sowie umweltzerstörende Praktiken in der Handy-Produktion in Ländern wie Argentinien, DR Kongo, Indonesien, China, Peru. Aber auch auf Initiativen, Arbeiter:innen, Genossenschaften u.a., die sich für faire und umweltschonende Bedingungen einsetzen.
 
 # Methode und Grundlagen
 * Die digitalen Aufgaben liegen auf dem Raspberry Pi, eine Internetverbindung ist nicht notwendig. Die Daten verlassen den Raum nicht (DSGVO!)
-* Die Schüler*innen bearbeiten in 6 Gruppen 4 verschiedene Länder, zwei Stationen sind doppelt. Jede Gruppe hat dabei die folgende Aufträge: Schreibt das Land auf, um das es geht. Welche Probleme gibt es in diesem Land wegen der Mobiltelefone? Wie könnte die Situation verbessert werden?
+* Die Schüler:innen bearbeiten in 6 Gruppen 4 verschiedene Länder, zwei Stationen sind doppelt. Jede Gruppe hat dabei die folgende Aufträge: Schreibt das Land auf, um das es geht. Welche Probleme gibt es in diesem Land wegen der Mobiltelefone? Wie könnte die Situation verbessert werden?
 * Die nummerierten QR-Codes führen durch die Geschichte, Ziel ist es immer, den nächsten QR-Code zu erarbeiten
 * Die QR-Codes werden mit einem QR-Reader gelesen, die Aufgabe öffnet sich dann im Browser
 
 ## Lehrziele
-* Die Teilnehmer*innen können Rohstoffe benennen, die in einem Smartphone verbaut sind
-* Die Teilnehmer*innen können drei Ländern benennen, aus denen diese Rohstoffe stammen
-* Die Teilnehmer*innenkönnendreiproblematischeAspektederSmartphone- Nutzung benennen
-* Die Teilnehmer*innen können drei Möglichkeiten benennen, wie diese Probleme verbessert werden könnten.
-* Die Teilehmer*innen reflektieren ihr eigenes Konsumverhalten
+* Die Teilnehmer:innen können Rohstoffe benennen, die in einem Smartphone verbaut sind.
+* Die Teilnehmer:innen können drei Ländern benennen, aus denen diese Rohstoffe stammen.
+* Die Teilnehmer:innen können drei problematische Aspekte der Smartphone-Nutzung benennen.
+* Die Teilnehmer:innen können drei Möglichkeiten benennen, wie diese Probleme verbessert werden könnten.
+* Die Teilehmer:innen reflektieren ihr eigenes Konsumverhalten.
 
 
 ## Die Geschichte
 
-Sie war drauf und dran, der neue Star des Öko-Business zu werden. Doch jetzt ist Nora Grün, Geschäftsführerin des Start-ups Smart’n’Fair,
-wie es scheint, über Nacht verschwunden. Die 28-Jährige verfolgte seit Jahren zusammen mit ihrem Team und unzähligen UnterstützerInnen die
-Idee, ein möglichst fair hergestelltes Smartphone auf den Markt zu bringen. Die Recherche nach Unternehmen, die ihre strengen Vorgaben
-in Sachen Arbeitsbedingungen, Bezahlung der Mitarbeitenden und Umweltschutz erfüllen können, führte Nora Grün rund um die Welt.
-Ihr Einsatz brachte ihr jedoch nicht nur viel Bewunderung und eine wachsende Fangemeinde ein. Es gab auch viele, die ihr den
-Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Versuche, ihr Unternehmen kaputt zu machen.
+Sie war drauf und dran, der neue Star des Öko-Business zu werden. Doch jetzt ist Nora Grün, Geschäftsführerin des Start-ups Smart’n’Fair, wie es scheint, über Nacht verschwunden. Die 28-Jährige verfolgte seit Jahren zusammen mit ihrem Team und unzähligen Unterstützer:innen die Idee, ein möglichst fair hergestelltes Smartphone auf den Markt zu bringen. Die Recherche nach Unternehmen, die ihre strengen Vorgaben in Sachen Arbeitsbedingungen, Bezahlung der Mitarbeitenden und Umweltschutz erfüllen können, führte Nora Grün rund um die Welt.
+
+Ihr Einsatz brachte ihr jedoch nicht nur viel Bewunderung und eine wachsende Fangemeinde ein. Es gab auch viele, die ihr den Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Versuche, ihr Unternehmen kaputt zu machen.
 
 
 
