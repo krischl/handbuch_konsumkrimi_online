@@ -22,11 +22,9 @@ meist menschenunwürdigen Abbau- und Produktionsbedingungen sowie umweltzerstör
 
 
 ## Die Geschichte
-
 Sie war drauf und dran, der neue Star des Öko-Business zu werden. Doch jetzt ist Nora Grün, Geschäftsführerin des Start-ups Smart’n’Fair, wie es scheint, über Nacht verschwunden. Die 28-Jährige verfolgte seit Jahren zusammen mit ihrem Team und unzähligen Unterstützer:innen die Idee, ein möglichst fair hergestelltes Smartphone auf den Markt zu bringen. Die Recherche nach Unternehmen, die ihre strengen Vorgaben in Sachen Arbeitsbedingungen, Bezahlung der Mitarbeitenden und Umweltschutz erfüllen können, führte Nora Grün rund um die Welt.
 
 Ihr Einsatz brachte ihr jedoch nicht nur viel Bewunderung und eine wachsende Fangemeinde ein. Es gab auch viele, die ihr den Erfolg nicht gönnten. Wüste Drohungen waren genauso an der Tagesordnung wie Versuche, ihr Unternehmen kaputt zu machen.
-
 
 
 ## Inventarliste
