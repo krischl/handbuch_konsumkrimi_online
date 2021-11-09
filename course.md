@@ -29,6 +29,8 @@ Ihr Einsatz brachte ihr jedoch nicht nur viel Bewunderung und eine wachsende Fan
 
 ## Inventarliste
 
+Folgende Teile sind enthalten: 
+
 ### Hardware
 - [ ] 1x Raspberry Pi
 - [ ] Netzteil Raspberry Pi
