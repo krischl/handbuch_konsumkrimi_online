@@ -298,6 +298,6 @@ Lösung:
 
 
 ## Abschluss
-Seite: www.mission-learning.org/formular_neu öffnen
+Seite: https://mission-learning.org/wp-content/kurse/handyrechner/story.html öffnen. Auf dieser Seite können die Schüler:innen ihren Handyverbrauch bis zum 80. Geburtstag ausrechnen. Zudem kann berechnet werden, wie sich eine längere Nutzungsdauer (3 Monate oder 6 Monate) auswirkt. 
 
 Vielen Dank und viel Spaß beim Spielen!
