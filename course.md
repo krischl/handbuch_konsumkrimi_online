@@ -2,8 +2,6 @@
 
 ### erstellt vom Referat Entwicklung & Politik und von Christian Pfliegel (E-Learning-Entwicklung bei Mission EineWelt).
 
-Test
-
 Schüler:innen ab der 7. Klasse und Konfirmand:innen suchen mit Hilfe von Tablets nach den Ursachen für das Verschwinden von Nora Grün,
 einer Unternehmerin, die ein faires und nachhaltiges Smartphone auf den Markt bringen will.
 Beim Lösen verschiedener Aufgaben, beim Knacken von Rätseln und Codes stoßen die Schüler:innen auf die
