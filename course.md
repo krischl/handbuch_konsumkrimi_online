@@ -7,7 +7,6 @@ einer Unternehmerin, die ein faires und nachhaltiges Smartphone auf den Markt br
 Beim Lösen verschiedener Aufgaben, beim Knacken von Rätseln und Codes stoßen die Schüler:innen auf die
 meist menschenunwürdigen Abbau- und Produktionsbedingungen sowie umweltzerstörende Praktiken in der Handy-Produktion in Ländern wie Argentinien, DR Kongo, Indonesien, China, Peru. Aber auch auf Initiativen, Arbeiter:innen, Genossenschaften u.a., die sich für faire und umweltschonende Bedingungen einsetzen.
 
-Hallo, dies ist ein Test. 
 
 # Methode und Grundlagen
 * Die digitalen Aufgaben liegen auf dem Raspberry Pi, eine Internetverbindung ist nicht notwendig. Die Daten verlassen den Raum nicht (DSGVO!)
